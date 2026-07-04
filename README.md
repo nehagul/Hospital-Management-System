@@ -62,14 +62,14 @@ HospitalManagementSystem/
 │       └── dialogs/
 ├── patients.txt
 └── hospital_report.txt
-**** 🔑 Login Guide
+ 🔑 Login Guide
 First Time: Create Admin account on Sign Up screen
 
 Admin Login: Use created credentials
 
 Faculty Login: Any credentials (read-only access)
 
-****💾 Data Storage
+💾 Data Storage
 patients.txt — Main database (CSV format)
 
 hospital_report.txt — Generated reports
