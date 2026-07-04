@@ -1,0 +1,3 @@
+001,Asad Khan,38,Male,Malaria,Dr.Umar,2026-07-03,G06,0305-9870022,Normal
+002,Aslam Khan,48,Male,Typhoid,Dr.Rahib,20026-06-09,F11,0300-0091114,Normal
+003,Sara Khan,42,Female,Heart Attack,Dr.Amna,2026-03-26,S15,0303-2349991,High

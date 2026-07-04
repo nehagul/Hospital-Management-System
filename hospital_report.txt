@@ -1,0 +1,3 @@
+ID:001 Name:Asad Khan Age:36 Gender:Male Disease:Malaria Doctor:Dr.Umar Admission:2026-07-03 Room:G06 Contact:0305-9870022 Priority:Normal
+ID:002 Name:Aslam Khan Age:45 Gender:Male Disease:Typhoid Doctor:Dr.Rahib Admission:20026-06-09 Room:F11 Contact:0300-0091114 Priority:Normal
+ID:003 Name:Sara Khan Age:42 Gender:Female Disease:Heart Attack Doctor:Dr.Amna Admission:2026-03-26 Room:S15 Contact:0303-2349991 Priority:High
