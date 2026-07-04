@@ -62,28 +62,18 @@ HospitalManagementSystem/
 │       └── dialogs/
 ├── patients.txt
 └── hospital_report.txt
-🔑 Login Guide
+# 🔑 Login Guide
 First Time: Create Admin account on Sign Up screen
 
 Admin Login: Use created credentials
 
 Faculty Login: Any credentials (read-only access)
 
-💾 Data Storage
+# 💾 Data Storage
 patients.txt — Main database (CSV format)
 
 hospital_report.txt — Generated reports
 
-🤝 Contributing
-Fork the repository
-
-Create feature branch (git checkout -b feature/AmazingFeature)
-
-Commit changes (git commit -m 'Add feature')
-
-Push to branch (git push origin feature/AmazingFeature)
-
-Open Pull Request
 
 👨‍💻 Author
 Neha Gul
